@@ -1,1 +1,5 @@
 # demo-vcs
+
+# contributor
+
+- arya
